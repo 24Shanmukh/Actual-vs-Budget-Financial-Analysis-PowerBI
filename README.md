@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard that compares **actual sales performance against budget** across products, countries, customer segments and time (2020–2021).
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
@@ -49,11 +49,10 @@ Every KPI card shows the actual figure alongside its variance from budget, and t
 ## 📂 Repository Structure
 
 ```
-├── Actual_vs_Budget_Financial_Analysis.pbix   # Power BI report
-├── images/
-│   ├── dashboard.png                          # Dashboard screenshot
-│   └── logo.png
-└── README.md
+   ├── Actual_vs_Budget_Financial_Analysis.pbix   # Power BI report
+   ├── dashboard.png                              # Dashboard screenshot
+   ├── logo.png
+   └── README.md
 ```
 
 ## 📁 Dataset
@@ -68,4 +67,4 @@ Practice dataset based on Microsoft's Power BI [Financial Sample](https://learn.
 
 ---
 
-👤 **Shanmukh Badiger**
+👤 **Shanmukha Badiger**
